@@ -12,7 +12,7 @@ I am Arsene, a passionate software engineer based in Nairobi-Kenya. Currently, I
 ## 🚀 Skills
 
 - Frontend Development: React, Next.js, HTML, CSS, JavaScript
-- Backend Development: Node.js, Express.js, REST & GRAPHQL APIs
+- Backend Development: Node.js, Express.js, REST & GraphQl APIs
 - Database: MongoDB, MySQL
 - Version Control: Git, GitHub
 - Testing: Jest, React Testing Library
