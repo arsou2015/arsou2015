@@ -4,7 +4,7 @@
 
 I am Arsene, a passionate software engineer based in Nairobi-Kenya. Currently, I am working on exciting projects involving React, Next.js, and Node.js. 💻🌐
 
-## 🚀 Currently Working on
+## 🔭 Currently Working on
 
 - [Tiketa] , a platform for managing events, ticket sales, and attendee information.
 - [Amazu] , a real estate app that simplifies the property search process through advanced filters and user-friendly interfaces.
@@ -21,8 +21,6 @@ I am always eager to learn and explore new technologies to expand my skillset an
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- Docker
 - Kubernetes
 
 ## 📫 Contact Me
