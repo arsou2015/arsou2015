@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Arsene, a passionate software engineer based in Nairobi-Kenya. Currently, I am working on exciting projects involving React, Next.js, and Node.js. 💻🌐
+I am Arsene, a passionate software engineer based in Nairobi-Kenya. 
 
 ## 🔭 Currently Working on
 
