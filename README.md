@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Arsene, a passionate software engineer based in Nairobi-Kenya. 
+I am Arsene, a passionate software engineer based in Bujumbura-Burundi. 
 
 ## 🔭 Currently Working on
 
