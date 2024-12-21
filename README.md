@@ -7,7 +7,7 @@ I am Arsene, a passionate software engineer based in Bujumbura-Burundi.
 ## 🔭 Currently Working on
 
 - [Tiketa] , a platform for managing events, ticket sales, and attendee information.
-- [Amazu] , a real estate app that simplifies the property search process through advanced filters and user-friendly interfaces.
+- [Amazu] , a real estate app that simplifies the property search through advanced filters and user-friendly interfaces.
 
 ## My committters.top rank 👇
 
