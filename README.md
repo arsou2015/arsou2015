@@ -1,56 +1,53 @@
-# Hi, I'm Arsene! 👋
+# Arsene Nduwayo | Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsou2015&label=Profile%20views&color=0e75b6&style=flat" alt="arsou2015" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsene-nduwayo-a8b68613b)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:arsene@platomap.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=arsou2015&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/arsou2015)
 
 ## About Me
 
-I am Arsene, a passionate software engineer based in Bujumbura-Burundi.
+Full-stack software engineer based in Bujumbura, Burundi, building scalable SaaS solutions with a focus on delivering exceptional user experiences.
 
-## 🔭 Currently Working on
+## 🚀 Current Projects
 
-- [Tiketa] , a platform for managing events, ticket sales, and attendee information.
-- [Amazu] , a real estate app that simplifies the property search through advanced filters and user-friendly interfaces.
+### [PlatoMap](https://platomap.com)
 
-## My committters.top rank 👇
+It is a SaaS platform that helps businesses streamline operations, manage workflows, and enhance collaboration with intuitive and scalable tools.
 
-[![committers.top badge](https://user-badge.committers.top/burundi_private/arsou2015.svg)](https://user-badge.committers.top/burundi_private/arsou2015)
+### [Safi Deals](https://safideals.com)
 
-## 🚀 Skills
+A real estate marketplace revolutionizing property search through advanced filtering, virtual tours, and a seamless user interface.
 
-- Frontend Development: React, Next.js, HTML, CSS, JavaScript
-- Backend Development: Node.js, Express.js, REST & GraphQl APIs
-- Database: MongoDB, MySQL
-- Version Control: Git, GitHub
-- Testing: Jest, React Testing Library
+## 💻 Tech Stack
 
-I am always eager to learn and explore new technologies to expand my skillset and stay up-to-date in the ever-evolving world of web development.
+```
+Frontend:        React, Next.js, Tailwind CSS
+Backend:         Node.js, Express.js, REST APIs, GraphQL
+Database:        MongoDB, MySQL
+Infrastructure:  Docker, AWS, CI/CD
+Testing:         Jest, React Testing Library
+Tools:           Git, GitHub, VS Code
+```
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- Kubernetes
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=arsou2015&theme=tokyonight&hide_border=true)
 
-# 📊 GitHub Stats:
+## 🏆 Achievements
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arsou2015&theme=dark&hide_border=false)<br/>
+[![Committers Rank](https://user-badge.committers.top/burundi_private/arsou2015.svg)](https://user-badge.committers.top/burundi_private/arsou2015)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arsou2015&theme=nord&column=4&no-frame=true&margin-w=15&margin-h=15)
 
-## 🏆 GitHub Trophies
+## 🌱 What I'm Learning
 
-![](https://github-profile-trophy.vercel.app/?username=arsou2015&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- Kubernetes for container orchestration
+- AWS cloud architecture patterns
+- Microservices design principles
 
-## 📫 Contact Me
+## 💡 Fun Fact
 
-You can reach out to me through the following platforms:
+When I'm not coding, you'll find me solving complex puzzles and brain teasers, which has surprisingly improved my approach to debugging and system architecture!
 
-- LinkedIn: [Arsene's LinkedIn](https://www.linkedin.com/in/arsene-nduwayo-a8b68613b)
-- Email: arsene@tiketa.bi
+---
 
-Feel free to connect with me for any collaborations, job opportunities, or just to say hi! I am always open to new connections and exciting projects.
-
-## ⚡ Fun Fact
-
-I enjoy solving puzzles and brain teasers during my free time. It helps in sharpening my problem-solving skills and keeps me entertained!
-
-Thanks for checking out my profile. Have a great day! 😄
-
-[Tiketa]: https://tiketa.bi
-[Amazu]: https://amazu.bi
+_"The best way to predict the future is to create it." – Peter Drucker_
